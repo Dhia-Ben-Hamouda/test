@@ -1,0 +1,19 @@
+{
+  "name": "other-package",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Dhia Ben Hamouda <dhiabenhamouda.5@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/other-package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/other-package.test.js"
+  }
+}

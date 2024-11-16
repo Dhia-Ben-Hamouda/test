@@ -1,0 +1,28 @@
+{
+  "name": "dhia-rn-button",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Dhia Ben Hamouda <dhiabenhamouda.5@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/dhia-rn-button.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/dhia-rn-button.test.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.76.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.6.3"
+  }
+}
